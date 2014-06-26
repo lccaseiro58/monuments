@@ -1,0 +1,1 @@
+javah -jni -classpath bin/classes/ -d jni/com.example.prjmonument.Imagelib
